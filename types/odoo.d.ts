@@ -14,6 +14,7 @@ declare class Odoo {
 	browse(model: string, fields: string[], ids: number[]): Promise<Object[]>
 	get(model: string, fields: string[], filters: Filter[], offset?: number, amount?: number): Promise<Object[]>
 	create(model: string, records: Object[]): Promise<number[]>
+	update(model: string, ids: number[], values: Object): Promise<boolean>
 	unlink(model: string, ids: number[]): Promise<boolean>
 	call(model: string, method: string, ids: number[]): Promise<unknown>
 }

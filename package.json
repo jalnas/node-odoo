@@ -1,6 +1,6 @@
 {
 	"name": "node-odoo",
-	"version": "0.9.1",
+	"version": "0.9.2",
 	"description": "NodeJS module for Odoo",
 	"author": {
 		"name": "Patrik Jalnäs",
