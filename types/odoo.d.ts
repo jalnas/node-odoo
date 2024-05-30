@@ -1,7 +1,3 @@
-// Type definitions for jalnas/node-odoo 0.9.9
-// Project: https://github.com/jalnas/node-odoo
-// Definitions by: Patrik Jalnäs <patrik@jaln.as>
-
 import type { Model } from "./models.d.ts"
 
 export = Odoo

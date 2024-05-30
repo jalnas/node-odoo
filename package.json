@@ -2,10 +2,7 @@
 	"name": "node-odoo",
 	"version": "0.9.9",
 	"description": "NodeJS module for Odoo",
-	"author": {
-		"name": "Patrik Jalnäs",
-		"email": "patrik@jaln.as"
-	},
+	"author": "Patrik Jalnäs",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/jalnas/node-odoo"
